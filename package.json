@@ -1,0 +1,26 @@
+{
+  "name": "express_biztime_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguarino522/express_biztime_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguarino522/express_biztime_app/issues"
+  },
+  "homepage": "https://github.com/nguarino522/express_biztime_app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  }
+}
